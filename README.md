@@ -15,9 +15,9 @@ Further, an advanced ontology-based searching method is also provided. All the d
 
 <img src="https://user-images.githubusercontent.com/17311837/157302474-cb8ad0a1-0627-42e6-99a7-d3962ce6242a.png" alt="Advanced Search" width=100%> 
 
-## 3. Data presentation
+## 3. Data Presentation
 
-### 3.1. Search result page
+### 3.1. Search Result Page
 
 <img src="https://user-images.githubusercontent.com/17311837/157302524-22e14b1d-0599-43fc-b06e-8bb00da2c032.png" alt="Search Result" width=100%> 
 
@@ -84,7 +84,7 @@ If you have reliable knowledge on mosaic mutations that are not included in this
 Yang X., Yang C., Zheng X., Xiong L., Tao Y., Wang M., Ye A.Y., Wu Q., Dou Y., Luo J., Wei L., and Huang A.Y. 2020. MosaicBase: A Knowledgebase of Postzygotic Mosaic Variants in Noncancer Disease-related and Healthy Human Individuals. Genomics Proteomics Bioinformatics. Sep 8:S1672-0229(20)30098-X. PMID: [32911083](https://pubmed.ncbi.nlm.nih.gov/32911083/)
 doi: [https://doi.org/10.1016/j.gpb.2020.05.002](https://doi.org/10.1016/j.gpb.2020.05.002)
 
-## 7. Team:
+## 7. Team
 
 Xiaoxu Yang
 
@@ -96,6 +96,6 @@ August Yue Huang
 
 Liping Wei (PI)
 
-## 8. Contact Us:
+## 8. Contact Us
 [mosaicbase@mail.cbi.pku.edu.cn](mailto:mosaicbase@mail.cbi.pku.edu.cn)
 
