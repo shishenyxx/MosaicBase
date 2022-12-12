@@ -1,17 +1,17 @@
-# MosaicBase
+# [MosaicBase](http://49.4.21.8:8000)
 [MosaicBase](http://49.4.21.8:8000) is a comprehensive knowledgebase for postzygotic mosaic variants from noncancer disease-related and healthy human individuals
 
 ## 1. Introduction
 
 Postzygotic mosaic mutations refer to DNA changes arising after the formation of the fertilized egg, therefore only a fraction of somatic and/or germ cells in the human body would carry the mutation. If a mosaic mutation affects germ cells, it will have a chance to be transmitted to the offspring. MosaicBase is a database of mosaic mutations in non-cancer diseases and asymptomatic individuals. Through manual reviews of massive amounts of literature published in the past decades, we collect reliable mosaic mutations that are detected in non-cancer individuals and validated by multiple experimental methods. Mutations are classified according to its genomic position and mutation type. Detailed information about individuals and publications are also integrated into the database. This database aims to provide comprehensive information to researchers and physicians for a better understanding of the distribution and transmission of mosaic mutations in non-cancer genomes and facilitating genetic counseling.
 
-## 2. Search
+## 2. [Search](http://49.4.21.8:8000/)
 
 MosaicBase provides a friendly search engine for users to fetch useful data. You can search the database using disease name, range of genomic coordinate (in the format of 1:123456-234566, genome assembly: GRCh37/hg19), gene symbol, or Entrez Gene ID. The search engine is comparable with space-delimited multiple search terms.
 
 <img src="https://user-images.githubusercontent.com/17311837/157302439-d740ae1b-bd38-4618-a2de-bf04e114e769.png" alt="Search Bar" width=100%> 
 
-Further, an advanced ontology-based searching method is also provided. All the diseases collected in the database are classified into categories according to the disease ontology. So, you can choose the disease you are interested in through the disease ontology category. Then, click on the disease term, a detailed description for this disease and all the related mosaic mutations we have collected are shown in the right panel.
+Further, an [advanced ontology-based searching method](http://49.4.21.8:8000/menu/) is also provided. All the diseases collected in the database are classified into categories according to the disease ontology. So, you can choose the disease you are interested in through the disease ontology category. Then, click on the disease term, a detailed description for this disease and all the related mosaic mutations we have collected are shown in the right panel.
 
 <img src="https://user-images.githubusercontent.com/17311837/157302474-cb8ad0a1-0627-42e6-99a7-d3962ce6242a.png" alt="Advanced Search" width=100%> 
 
@@ -70,17 +70,18 @@ This page provides information on individuals. It also displays the information 
 
 <img src="https://user-images.githubusercontent.com/17311837/157302892-1f7ef6a8-5937-4dea-a550-ae8ee50835b5.png" alt="Individual Page" width=100%> 
 
-## 4. Genome Browser
+## 4. [Genome Browser](http://49.4.21.8:8000/browser/human-hg19)
 
 Biodalliance Genome Browser provides a fast, interactive genome visualization for users. Mosaic mutations are shown in one track, along with other genetic and epigenetic tracks. Search by both of coordinates and gene symbols are enabled. More usage can be referred to http://www.biodalliance.org/started.html.
 
 <img src="https://user-images.githubusercontent.com/17311837/157302186-e673e254-cc35-4aeb-9723-95db2092eed8.png" alt="Individual Page" width=100%> 
 
-## 5. Submission System
+## 5. [Submission System](http://49.4.21.8:8000/submit)
 
 If you have reliable knowledge on mosaic mutations that are not included in this database, you are welcomed to submit that to us. We will appreciate for your submission and examine the submitted information as soon as possible. 
 
-## 6. Cite MosaicBase
+## 6. [ite MosaicBase](https://doi.org/10.1016/j.gpb.2020.05.002)
+
 Yang X., Yang C., Zheng X., Xiong L., Tao Y., Wang M., Ye A.Y., Wu Q., Dou Y., Luo J., Wei L., and Huang A.Y. 2020. MosaicBase: A Knowledgebase of Postzygotic Mosaic Variants in Noncancer Disease-related and Healthy Human Individuals. Genomics Proteomics Bioinformatics. Sep 8:S1672-0229(20)30098-X. PMID: [32911083](https://pubmed.ncbi.nlm.nih.gov/32911083/)
 doi: [https://doi.org/10.1016/j.gpb.2020.05.002](https://doi.org/10.1016/j.gpb.2020.05.002)
 
