@@ -80,12 +80,16 @@ Biodalliance Genome Browser provides a fast, interactive genome visualization fo
 
 If you have reliable knowledge on mosaic mutations that are not included in this database, you are welcomed to submit that to us. We will appreciate for your submission and examine the submitted information as soon as possible. 
 
-## 6. [ite MosaicBase](https://doi.org/10.1016/j.gpb.2020.05.002)
+## 6. [Cite MosaicBase](https://doi.org/10.1016/j.gpb.2020.05.002)
 
 Yang X., Yang C., Zheng X., Xiong L., Tao Y., Wang M., Ye A.Y., Wu Q., Dou Y., Luo J., Wei L., and Huang A.Y. 2020. MosaicBase: A Knowledgebase of Postzygotic Mosaic Variants in Noncancer Disease-related and Healthy Human Individuals. Genomics Proteomics Bioinformatics. Sep 8:S1672-0229(20)30098-X. PMID: [32911083](https://pubmed.ncbi.nlm.nih.gov/32911083/)
 doi: [https://doi.org/10.1016/j.gpb.2020.05.002](https://doi.org/10.1016/j.gpb.2020.05.002)
 
-## 7. Team
+## 7. [Tutroials](http://49.4.21.8:8000/tutorials)
+
+A copy of this tutorial page is also available on the MosaicBase website.
+
+## 8. Team
 
 Xiaoxu Yang
 
@@ -97,6 +101,6 @@ August Yue Huang
 
 Liping Wei (PI)
 
-## 8. Contact Us
+## 9. Contact Us
 [mosaicbase@mail.cbi.pku.edu.cn](mailto:mosaicbase@mail.cbi.pku.edu.cn)
 
