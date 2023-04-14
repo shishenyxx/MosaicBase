@@ -1,5 +1,5 @@
 # [MosaicBase](http://49.4.21.8:8000)
-[MosaicBase](http://49.4.21.8:8000) is a comprehensive knowledgebase for postzygotic mosaic variants from noncancer disease-related and healthy human individuals
+[MosaicBase](http://49.4.21.8:8000) is a comprehensive knowledgebase for postzygotic mosaic variants from noncancer disease-related and healthy human individuals. Complete raw data tables from MosaicBase could be downloaded [here](https://github.com/shishenyxx/MosaicBase/blob/main/MosacBase_Full_Data.zip).
 
 ## 1. Introduction
 
