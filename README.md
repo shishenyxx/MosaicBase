@@ -102,5 +102,5 @@ August Yue Huang
 Liping Wei (PI)
 
 ## 9. Contact Us
-[mosaicbase@mail.cbi.pku.edu.cn](mailto:mosaicbase@mail.cbi.pku.edu.cn)
+:email: [mosaicbase@mail.cbi.pku.edu.cn](mailto:mosaicbase@mail.cbi.pku.edu.cn)
 
